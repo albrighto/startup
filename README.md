@@ -1,2 +1,2 @@
-# startup
-Just a test of code
+# startup splash page
+Just some code to test some stuff
